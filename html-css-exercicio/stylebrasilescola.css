@@ -1,0 +1,42 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:#f7f7f7;
+    
+}
+ #img-legend {
+    text-align: center;
+ }
+/*  img > figcaption{
+    border-radius: 30px;
+ } */
+#img-legend > img {
+    border-radius: 30px;
+}
+#img-legend > figcaption {
+    color: #323232
+}
+#area-site {
+    padding-top: 150px;
+    background-color: #fff;
+}
+p,li,h1 {
+            
+    /* text-indent: 8cm; */
+}
+.center{
+    max-width: 1280px;
+    width: 100%;
+    margin: auto;
+}
+#lista-horizontal{
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+}
+
+#lista-horizontal > li{
+    display: inline;
+   
+  }
