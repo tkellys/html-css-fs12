@@ -1,0 +1,17 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:burlywood;
+    
+}
+ #img-legend {
+    text-align: center;
+ }
+/*  img > figcaption{
+    border-radius: 30px;
+ } */
+#img-legend > img {
+    border-radius: 30px;
+}
+#img-legend > figcaption {
+    color: yellow
+}

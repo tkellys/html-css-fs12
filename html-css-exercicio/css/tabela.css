@@ -1,0 +1,16 @@
+table, th, td {
+border: 1px solid black;
+border-collapse: collapse;
+}
+   #país th {
+        background-color: yellow;
+        color: green;
+    }
+    #customers th {
+    background-color:#04aa6d;
+    color: white;
+    }
+    #customers td, #customers th {
+        border: 1px solid #ddd;
+        padding: 8px;
+    }
