@@ -40,3 +40,10 @@ p,li,h1 {
     display: inline;
    
   }
+  .texto{
+    margin: 60px;
+    padding: 100px;
+    background-color: #fff;
+    border-radius: 20px;
+}
+  
