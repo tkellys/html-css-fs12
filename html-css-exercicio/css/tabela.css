@@ -1,6 +1,17 @@
 table, th, td {
-border: 1px solid black;
+border: 2px solid black;
 border-collapse: collapse;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+/* nth-child - é um metodo que pula linhas e da pra pular linhas impares/pares ou atraves de qtd especificas 2n, 3n, 5n */
+tr:nth-child(odd) {
+    background-color:orange
+}
+tr:hover {
+background-color: rosybrown;
+
+
 }
    #país th {
         background-color: yellow;

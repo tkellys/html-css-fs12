@@ -1,6 +1,6 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color:#f7f7f7;
+    background-color:#f7f7f7da;
     
 }
  #img-legend {
@@ -17,7 +17,7 @@ body{
 }
 #area-site {
     padding-top: 150px;
-    background-color: #fff;
+    background-color: rgb(255, 255, 255);
 }
 p,li,h1 {
             
